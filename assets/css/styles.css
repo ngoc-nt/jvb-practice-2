@@ -84,8 +84,8 @@ header {
 }
 
 .btn-join-us {
-    background-color: #96bb7c;
-    color: var(--light-text-color, #fff);
+    background: var(--primary-color, #fff);
+    color: var(--light-text-color, #96BB7C);
     font-family: var(--font-montserrat);
     font-size: 14px;
     font-style: normal;
@@ -155,6 +155,7 @@ a {
 }
 
 .btn-join-us-one {
+    background: var(--primary-color, #96BB7C);
     color: var(--light-text-color, #fff);
     text-align: center;
     font-family: var(--font-montserrat);
