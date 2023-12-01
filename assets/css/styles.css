@@ -168,7 +168,6 @@ a {
 
 .section {
     display: flex;
-    justify-content: center;
     align-items: center;
     padding: 30px 150px 30px 150px;
 }
@@ -201,6 +200,10 @@ a {
 
 .pb-75 {
     margin-bottom: 75px;
+}
+
+.just-center {
+    justify-content: center;
 }
 
 .mr-165 {
